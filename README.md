@@ -93,8 +93,8 @@ Implementation is achieved using MongoDB's multi-document transactions.
 1. Clone the repository
 
    ```
-   git clone https://github.com/yourusername/banking-ledger-api.git
-   cd banking-ledger-api
+   git clone https://github.com/uzormercy/banking-ledger.git
+   cd banking-ledger
    ```
 
 2. Install dependencies
