@@ -1,0 +1,10 @@
+.qodo
+.env
+.idea
+.vscode
+*.iml
+*.log
+dist
+node_modules
+coverage
+logs
